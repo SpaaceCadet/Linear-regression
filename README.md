@@ -10,3 +10,5 @@
          - Best practices to create train test datasets and models using pandas and ols from statsmodel.
          - How to use diagnosis plots for linear regression like R programming .
         
+
+![image](https://user-images.githubusercontent.com/122410192/226494483-351f918a-db61-4f25-ba77-fe7eca164c77.png)
